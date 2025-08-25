@@ -46,5 +46,6 @@ def organize():
     print(f"CLUTTER CLEARED!!! on {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
 
 if __name__ == "__main__":
+    print("STARTING TO CLEAN THIS MESSSSSS you made!! dont dare to stop me")
     organize()
-    
+    print("I have cleaned this mess that you fool had made!! now dont you ever think o f making it dirty again!!!!!!!")
